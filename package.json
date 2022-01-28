@@ -44,5 +44,8 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.21"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
